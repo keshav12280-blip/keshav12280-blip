@@ -74,13 +74,6 @@ Entity Matching • Knowledge Graphs • Vector DBs • Retrieval Systems
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshav12280-blip\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav12280-blip\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🔗 Connect
 
