@@ -1,169 +1,89 @@
-# Hi, I'm Keshav Gupta 👋
+# Hi, I'm Keshav Gupta 🚀
 
-Software Engineer and Research Enthusiast working at the intersection of:
+### Software Engineer • Research Enthusiast • Data Systems
 
-* Data Systems
-* Entity Resolution
-* Fairness-aware Machine Learning
-* Knowledge Graphs
-* Retrieval and Vector Search Systems
-
----
-
-# About Me
-
-I currently work as a Software Engineer where I build scalable backend systems, distributed microservices, and data-intensive platforms handling production-scale workloads.
-
-My recent research interests focus on:
+💡 Exploring:
 
 * Fair Entity Matching
-* Knowledge Graph Construction
-* Adaptive Retrieval Systems
-* Data Integration Pipelines
-* Fairness in ML Systems
-
-I am actively working on research projects involving fairness-aware entity matching and scalable intelligent data systems.
+* Knowledge Graphs
+* Vector Search & Retrieval
+* Data-Centric AI
+* Scalable Backend Systems
 
 ---
 
-# Research
-
-## Current Research Areas
+## 🔬 Research Focus
 
 * Adaptive Fair Entity Matching
-* Knowledge Graph Reasoning
-* Data Integration Systems
 * Retrieval-Augmented Systems
-* Vector Databases and Semantic Search
+* Knowledge Graph Reasoning
+* Fairness-aware ML Systems
 
-## Publications
-
-### Fairness-Aware Entity Matching
-
-* Research paper accepted for publication (details to be updated)
-
-### Ongoing Work
-
-* Research on adaptive fairness calibration for entity matching systems
-* Multimodal and dependency-aware knowledge graph systems
+📄 1 Research Paper Accepted
+📝 1 Research Paper Under Submission
 
 ---
 
-# Featured Projects
+## 🚀 Featured Projects
 
-## Adaptive Fair Entity Matching
+### 🔹 Adaptive Fair Entity Matching
 
-Fairness-aware entity matching framework exploring adaptive threshold calibration and skew-aware matching strategies.
+Fairness-aware entity matching with adaptive calibration and skew-aware evaluation.
 
-### Focus Areas
+### 🔹 Knowledge Graph
 
-* Fairness-aware matching
-* Calibration stability
-* Precision-skew tradeoffs
-* Data integration pipelines
+Dependency-aware and multimodal knowledge graph system for intelligent reasoning.
 
----
+### 🔹 Adaptive Router Vector Query
 
-## Knowledge Graph
+Semantic retrieval and vector routing using FAISS and embedding pipelines.
 
-Research-oriented knowledge graph project involving:
+### 🔹 Question Template Extractor
 
-* Semantic entity linking
-* Multimodal information integration
-* Dependency-aware graph construction
-* Educational knowledge representation
+Image-to-structured-question template extraction system.
 
 ---
 
-## Adaptive Router Vector Query
+## ⚙️ Tech Stack
 
-Intelligent retrieval and vector routing system designed for scalable semantic search workflows.
+**Languages**
+Java • Python • SQL • JavaScript
 
-### Technologies
+**Systems & Backend**
+Kafka • ElasticSearch • Microservices • REST APIs • AWS
 
-* FAISS
-* Vector Search
-* Retrieval Pipelines
-* Embedding-based Routing
-
----
-
-## Question Template Extractor
-
-Automatic extraction and generation of structured educational question templates from images and multimodal inputs.
+**ML & Data**
+Entity Matching • Knowledge Graphs • Vector DBs • Retrieval Systems
 
 ---
 
-# Technical Skills
+## 📈 Experience
 
-## Languages
-
-* Java
-* Python
-* SQL
-* JavaScript
-
-## Backend & Systems
-
-* Microservices
-* Distributed Systems
-* Kafka
-* ElasticSearch
-* REST APIs
-* Event-Driven Systems
-
-## Data & ML
-
-* Entity Matching
-* Knowledge Graphs
-* Vector Databases
-* Retrieval Systems
-* Machine Learning Pipelines
-* Fairness-aware ML
-
-## Tools & Platforms
-
-* Docker
-* AWS
-* GitHub Actions
-* Linux
-* ClickHouse
+* Built scalable billing systems handling production-scale workflows
+* Worked on distributed microservices and event-driven architectures
+* Designed AI-driven ingestion and document processing pipelines
+* Improved search and retrieval systems using ElasticSearch & vector search
 
 ---
 
-# Experience Highlights
+## 🌟 Goals
 
-* Built scalable billing and invoicing systems handling multi-million dollar workflows
-* Worked on distributed microservices in production environments
-* Designed event-driven pipelines using Kafka and AWS services
-* Improved retrieval and search efficiency using ElasticSearch and vector search systems
-* Worked on AI-driven ingestion and document processing pipelines
+* Build impactful AI + Data Systems research
+* Open-source scalable intelligent systems
+* Pursue graduate research in Data-Centric AI
 
 ---
 
-# Current Goals
+## 📊 GitHub Stats
 
-* Publish impactful research in data systems and ML fairness
-* Build scalable open-source research systems
-* Explore intelligent retrieval and graph-based reasoning systems
-* Pursue graduate studies focused on data-centric AI and large-scale systems
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshav12280-blip\&show_icons=true\&theme=tokyonight)
 
----
-
-# GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshav12280-blip\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav12280-blip\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav12280-blip\&layout=compact\&theme=tokyonight)
 
 ---
 
-# Connect
+## 🔗 Connect
 
-* GitHub: [https://github.com/keshav12280-blip](https://github.com/keshav12280-blip)
-* LinkedIn: Add your LinkedIn link here
-* Email: Add your professional email here
+📌 GitHub: [https://github.com/keshav12280-blip](https://github.com/keshav12280-blip)
 
----
-
-⭐ Interested in scalable data systems, entity resolution, fairness-aware ML, and knowledge-driven AI systems.
+⭐ Interested in scalable data systems, fairness-aware ML, and intelligent retrieval systems.
