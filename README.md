@@ -19,8 +19,6 @@
 * Knowledge Graph Reasoning
 * Fairness-aware ML Systems
 
-📄 1 Research Paper Accepted
-📝 1 Research Paper Under Submission
 
 ---
 
